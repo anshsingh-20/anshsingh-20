@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I’m currently working on Learning and building web development skills<br>I’m looking to collaborate on Beginner-friendly web development projects and open-source contributions<br><br>🤝 I’m looking for help with Improving my JavaScript skills and understanding real-world project structure<br><br>🌱 I’m currently learning Full-Stack development (HTML, CSS, JavaScript) and starting with React and backend
+🔨 I’m currently working on Learning and building web development skills<br><br>🔑I’m looking to collaborate on Beginner-friendly web development projects and open-source contributions<br><br>🤝 I’m looking for help with Improving my JavaScript skills and understanding real-world project structure<br><br>🌱 I’m currently learning Full-Stack development (HTML, CSS, JavaScript) and starting with React and backend
 
 
 ## 🌐 Socials:
